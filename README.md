@@ -29,7 +29,7 @@ A custom node for ComfyUI that calculates optimal image dimensions based on mega
 1. Clone or download this repository into your ComfyUI custom nodes directory:
    ```bash
    cd ComfyUI/custom_nodes/
-   git clone <repository-url> comfyui-resolution-node
+   git clone https://github.com/skempken/comfyui-resolution-node.git comfyui-resolution-node
    ```
 
 2. Restart ComfyUI
@@ -79,4 +79,4 @@ This project is set up for PyCharm development with included `.idea` configurati
 
 ## License
 
-[Add your license information here]
+MIT License - see LICENSE file for details.
