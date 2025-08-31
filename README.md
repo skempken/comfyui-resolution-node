@@ -43,6 +43,12 @@ A custom node for ComfyUI that calculates optimal image dimensions based on mega
 
 3. The "Resolution Calculator" node will appear in the `image/resolution` category
 
+## Screenshot
+
+![Resolution Calculator Node Example](example.jpg)
+
+The screenshot shows the Resolution Calculator node configured for mobile content (1.0 MP, 9:16 Mobile/Stories format) with the computed resolution displayed in a Preview Any node.
+
 ## Usage
 
 1. Add the "Resolution Calculator" node to your workflow
